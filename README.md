@@ -22,4 +22,4 @@ https://mimicproject.com/code/af5d38bc-b677-3a5e-8218-c627a165c9fe
 ### Week 8: 
 Homework 1: https://mimicproject.com/code/e827419e-4dde-c4f7-c154-0aac34083512
 
-Homework 2: 
+Homework 2: https://mimicproject.com/code/2e25153a-c1ef-3c14-6397-a3a63c143ffe
